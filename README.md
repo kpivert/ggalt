@@ -51,7 +51,7 @@ dat <- data.frame(x=c(1:10, 1:10, 1:10),
 )
 ```
 
-### Horzon Chart
+### Horizon Chart
 
 Example carved from: <https://github.com/halhen/viz-pub/blob/master/sports-time-of-day/2_gen_chart.R>
 
